@@ -24,7 +24,7 @@ SELECT stations.station_id, COUNT(*) count_full FROM stations JOIN status ON sta
 -- starting at that station but ordered by dock count.
 -- Comment I included only the 63 stations who have had at least
 -- one trip
-SELECT stations.name, stations.city, stations.dockcount, COUNT(*) total_duration FROM stations JOIN trips ON stations.name = trips.start_station GROUP BY stations.name, stations.city, stations.dockcount ORDER BY stations.dockcount;
+SELECT stations.name, stations.city, stations.dockcount, COUNT(*) total_duration FROM stations JOIN trips ON stations.name = trips.start_station GROUP BY stations.name, stations.city, stations.dockcount ORDER BY stations.dockcount DESC;
 
 --(Challenge) What's the length of the longest trip for each day -- it rains anywhere?
 
@@ -61,4 +61,4 @@ AS
 	WHERE weather.events = 'Rain'
 )
 
-SELECT date, max(duration) FROM date_duration GROUP BY date ORDER BY date;
+SELECT date, max(duration) FROM date_duration GROUP BY date ORDER BY max DESC;
