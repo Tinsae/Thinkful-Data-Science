@@ -1,0 +1,27 @@
+Data Source: Amsterdam availability data scraped from AirBnB on December 24th. 
+Question: What are the popular neighborhoods in Amsterdam?
+
+I see two biases
+* Not all houses in Amsterdam are registered on AirBnb
+* Dec 24 is holiday period therefore many houses may not be available for lodging, lease or rent
+
+Hence, we cannot conclude anything about populairty of neighbourhoods
+
+=> "which homes are popular on holidays"
+
+Data Source: Mental health services use on September 12, 2001 
+in San Francisco, CA and New York City, NY. 
+Question: How do patterns of mental health service use vary between cities?
+
+* The data was obtained after an exceptional circumstance, 9/11 attacks
+* It will be more accurate if more cities are included
+
+=> "Mental health servies variation between a city near a crisis and farther ones"
+
+Data Source: Armenian Pub Survey. 
+Question: What are the most common reasons Armenians visit local pubs?
+
+Online surveys are filled by volountary people which don't represent the whole population
+Plus all are students
+
+=> "What are the most common reasons Armenian Students visit local pubs"
