@@ -1,0 +1,22 @@
+Define the likelihood that an individual will contract a specific disease
+
+Both
+A set of labeled examples can be used
+Clusters can be created. We can decide depending on how close an individual to
+is the clusters
+
+Translate a set of images into variables for modeling
+
+Unsupervised
+
+
+An ecommerce company wants to identify power users
+
+Unsupervised
+
+
+That same company wants to see shopping patterns in users
+Not sure
+
+You want to reduce the number of variables inputting into your random forest model
+UnSupervised
