@@ -1,0 +1,25 @@
+DRILL: Question Design
+For each of the following, indicate the best question type to use and why.
+
+Age
+It can be free response. If the study cares about age groups it can be multiple choice type
+A. <18  B. [18, 26]  C. [26, 35]  D. >35 
+
+Gender
+I often see drop-down boxes. Bisexual, Transgender are included. 
+
+
+Income
+If the study wants ranges, multiple choice is good
+
+Opinions about dish soap
+-Rating Scale
+
+Brand of dish soap used
+- Free Response is prefered because it is hard to list all brands
+
+Preference for dish soap brand (Cleany, Sudsy, DeGreaser, Pinesoft)
+- Multiple Choice
+
+Positive vs negative feelings about dish soap
+- Free Response
